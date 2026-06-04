@@ -12,10 +12,7 @@ section {
     padding: 0 32px;
 }
 
-nav {
-    padding-top: 32px;
-    display: flex;
-}
+
 
 .row {
     width: 100%;
@@ -27,6 +24,14 @@ nav {
 NAVBAR 
 
 */
+
+nav {
+    padding-top: 32px;
+    display: flex;
+    height: 100px;
+    width: 100%;
+    max-width: 1000px;
+}
 
 .nav__row {
     display: flex;
