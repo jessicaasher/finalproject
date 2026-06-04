@@ -38,3 +38,14 @@ nav {
     justify-content: space-between;
 }
 
+.nav__logo {
+    display: flex;
+    align-items: center;
+}
+
+.nav__logo--img {
+    height: 40px;
+    width: 40px;
+    padding 0
+}
+
