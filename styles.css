@@ -12,7 +12,9 @@ section {
     padding: 0 32px;
 }
 
-
+h2 {
+    font-weight: 900;
+}
 
 .row {
     width: 100%;
@@ -41,12 +43,14 @@ nav {
 .nav__logo {
     display: flex;
     align-items: center;
+    margin: 12px 0;
+    padding-bottom: 4px;
 }
 
 .nav__logo--img {
-    height: 40px;
-    width: 40px;
-    padding 0
+    max-height: 40px;
+    max-width: 40px;
+    padding: 0;
 }
 
 .nav__logo--title {
