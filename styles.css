@@ -49,3 +49,8 @@ nav {
     padding 0
 }
 
+.nav__logo--title {
+    margin-left: 12px;
+    padding-bottom: 2px;
+    letter-spacing: 0.6px;
+}
