@@ -16,10 +16,20 @@ nav {
     padding-top: 32px;
     display: flex;
 }
+
+.row {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 /* 
 
 NAVBAR 
 
 */
 
+.nav__row {
+    display: flex;
+    justify-content: space-between;
+}
 
