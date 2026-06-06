@@ -83,4 +83,6 @@ nav {
     text-decoration: none;
 }
 
-.
+button {
+    cursor: pointer;
+}
