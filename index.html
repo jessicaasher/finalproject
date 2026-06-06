@@ -16,33 +16,43 @@
                         <h2>Treact</h2>
                     </div>
                 </div>
-                <div class="nav__links">
+                <ul class="nav__links">
                     <a href="#" class="nav__link--anchor">About</a>
                     <a href="#" class="nav__link--anchor">Blog</a>
                     <a href="#" class="nav__link--anchor">Pricing</a>
                     <a href="#" class="nav__link--anchor">Contact Us</a>
                     <a href="#" class="nav__link--anchor">Login</a>
                     <a href="#" class="nav__link--anchor-primary">Sign Up</a>
-                </div>
+                </ul>
                 <button class="btn__menu" onclick="openMenu()">
-                    <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        stroke-width="2"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        class="btn__menu--svg"
-                    >
-                        <line x1="3" y1="12" x2="21" y2="12"></line>
-                        <line x1="3" y1="6" x2="21" y2="6"></line>
-                        <line x1="3" y1="18" x2="21" y2="18"></line>
-                    </svg>
+                    <i class="fa-solid fa-bars"></i>
                 </button>
-            </div>    
+                <div class="menu__backdrop">
+                    <button class="btn__menu btn__menu--close" onclick="closeMenu()">
+                        <i class="fa-solid fa-times"></i>
+                    </button>
+                    <ul class="menu__links">
+                        <li class="menu__list">
+                            <a href="#" class="menu__link" onclick="closeMenu()">About</a>
+                        </li>
+                        <li class="menu__list">
+                            <a href="#" class="menu__link" onclick="closeMenu()">Blog</a>
+                        </li>
+                        <li class="menu__list">
+                            <a href="#" class="menu__link" onclick="closeMenu()">Blog</a>
+                        </li>
+                        <li class="menu__list">
+                            <a href="#" class="menu__link" onclick="closeMenu()">Blog</a>
+                        </li>
+                        <li class="menu__list">
+                            <a href="#" class="menu__link" onclick="closeMenu()">Blog</a>
+                        </li>
+                        <li class="menu__list">
+                            <a class="menu__link" onclick="closeMenu()">Sign Up</a>
+                        </li>
+                    </ul>
+                </div>
+            </div> 
         </nav>
         <div class="menu">
             <button class="btn__menu btn__menu--close" onclick="closeMenu()">
