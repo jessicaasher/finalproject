@@ -67,3 +67,7 @@ nav {
 .nav__link--list {
     display: flex;
 }
+
+.nav__link--anchor {
+    margin: 0 12px;
+}
