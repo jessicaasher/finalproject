@@ -106,8 +106,8 @@ nav {
 }
 
 .menu__backdrop {
-
     position: absolute;
+    background-color: #242424
 }
 
 button {
