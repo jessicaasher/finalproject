@@ -115,6 +115,10 @@ nav {
     z-index: 100;
 }
 
+.btn__menu--close {
+    position: absolute
+}
+
 button {
     cursor: pointer;
 }
