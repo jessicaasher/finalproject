@@ -128,7 +128,8 @@ nav {
     padding: 32px 0;
 }
 
-.menu__link _{
+.menu__link {
+    font-size: 40px;
     color: white;
 }
 
