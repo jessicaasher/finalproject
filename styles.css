@@ -146,6 +146,14 @@ nav {
     color: white;
 }
 
+.nav__link--anchor-primary {
+    color:#f7fafc;
+    padding: 12px 32px;
+    background: #6415ff;
+    border-radius: 500px;
+    border: none;
+} 
+
 .btn__menu--close {
     position: absolute;
     right: 20px;
