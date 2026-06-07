@@ -121,6 +121,7 @@ nav {
 .menu__links {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .btn__menu--close {
