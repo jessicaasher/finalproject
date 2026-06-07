@@ -106,7 +106,8 @@ nav {
 }
 
 .menu__backdrop {
-    
+
+    position: absolute;
 }
 
 button {
