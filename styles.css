@@ -118,6 +118,11 @@ nav {
     align-items: center;
 }
 
+.menu__links {
+    display: flex;
+    flex-direction: column;
+}
+
 .btn__menu--close {
     position: absolute;
     right: 20px;
