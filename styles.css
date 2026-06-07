@@ -19,7 +19,6 @@ a:hover {
     text-decoration: underline;
 }
 
-
 section {
     padding: 0 32px;
 }
@@ -33,6 +32,8 @@ h2 {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+.nav__row
 
 li {
     list-style: none;
