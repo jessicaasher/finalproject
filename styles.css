@@ -119,7 +119,9 @@ nav {
     display: none;
 }
 
-
+.menu--open .menu__backdrop {
+    
+}
 
 .menu__links {
     display: flex;
