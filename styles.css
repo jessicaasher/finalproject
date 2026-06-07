@@ -39,6 +39,8 @@ li {
     list-style: none;
 }
 
+
+
 /* 
 
 NAVBAR 
@@ -94,6 +96,13 @@ nav {
     position: relative;
     transition: all 300ms;
     text-decoration: none;
+}
+
+.btn__menu {
+    background-color: transparent;
+    font-size: 40px;
+    text-align: center;
+    border: none;
 }
 
 button {
