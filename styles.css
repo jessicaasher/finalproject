@@ -103,6 +103,7 @@ nav {
     font-size: 40px;
     text-align: center;
     border: none;
+    display: none;
 }
 
 .menu__backdrop {
@@ -117,6 +118,10 @@ nav {
     justify-content: center;
     align-items: center;
     display: none;
+}
+
+.btn__menu {
+    display: block;
 }
 
 .menu--open .menu__backdrop {
