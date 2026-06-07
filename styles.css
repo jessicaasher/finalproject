@@ -116,7 +116,11 @@ nav {
 }
 
 .btn__menu--close {
-    position: absolute
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    padding: 8px;
+    color: white;
 }
 
 button {
