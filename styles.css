@@ -79,7 +79,7 @@ NAVBAR
 
 .nav__link--anchor,
 .nav__link--anchor-primary {
-    margin: 0 12px;
+    margin: 0 24px;
     font-size: 14px;
     font-weight: 600;
     padding-top: 4px;
@@ -174,6 +174,11 @@ button:active {
     transform: translateY(1px);
 }
 
+/* 
+
+MEDIA QUERIES for Smaller Screens
+
+*/
 
 @media (max-width: 1025px) {
     .nav__links {
