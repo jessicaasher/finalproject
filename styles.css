@@ -301,13 +301,27 @@ FEATURES
   padding: 80px 0;
 }
 
-
-
 .services {
   display: flex;
-  width: calc(100%/3)
+  flex-wrap: wrap;
 }
 
+.service {
+  width: calc(100% / 3);
+  padding: 24px;
+  display: flex;
+}
+
+.service__img--wrapper {
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+}
+
+.service__img {
+  width: 100%;
+  max-width: 64px;
+}
 .service__description {
   display: flex;
   flex-direction: column;
