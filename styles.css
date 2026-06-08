@@ -339,6 +339,10 @@ FEATURES
   flex-direction: column;
 }
 
+.service__para {
+  text-align: left;
+}
+
 /* 
 
 MEDIA QUERIES for Smaller Screens
