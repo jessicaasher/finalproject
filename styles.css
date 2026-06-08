@@ -297,11 +297,21 @@ FEATURES
 
 */
 
-.container {
+.services__container {
   padding: 80px 0;
 }
 
 
+
+.services {
+  display: flex;
+  width: calc(100%/3)
+}
+
+.service__description {
+  display: flex;
+  flex-direction: column;
+}
 
 /* 
 
