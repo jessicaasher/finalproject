@@ -309,8 +309,11 @@ FEATURES
 
 .service {
   width: calc(100%/3);
-  padding: 24px;
+  padding: 0 24px;
   display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .service__row {
