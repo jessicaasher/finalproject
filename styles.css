@@ -197,7 +197,15 @@ header .row {
   margin: 32px 0;
 }
 
-
+.header__email {
+  width: 100%;
+  max-width: 448px;
+  height: 68px;
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
 
 
 /* 
