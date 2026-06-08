@@ -222,6 +222,32 @@ header .row {
 .header__email--btn:hover {
   background-color: rgba(60, 13, 153);
 }
+.header__email--input {
+  width: 100%;
+  border-radius: 500px;
+  border: 2px solid rgb(229, 231, 235);
+  padding: 20px 192px 20px 32px;
+  color: rgb(36, 62, 99);
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  transition: border-color 300ms;
+}
+.header__email--input::placeholder {
+  font-weight: 500;
+  color: rgb(158, 170, 189);
+}
+.header__email--input:hover {
+  border-color: rgba(160, 174, 192);
+}
+.header__email--input:focus,
+.header__email--input:active {
+  outline: none;
+  border-color: rgba(100, 21, 255);
+}
 
 
 /* 
