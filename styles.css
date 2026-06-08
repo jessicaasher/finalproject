@@ -189,7 +189,13 @@ header .row {
     flex-direction: column;
 }
 
+.header__description {
+  width: 40%;
+}
 
+.header__description--para {
+  margin: 32px 0;
+}
 
 
 
