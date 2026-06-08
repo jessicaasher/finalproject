@@ -27,19 +27,15 @@ h2 {
     font-weight: 900;
 }
 
+li {
+    list-style: none;
+}
+
 .row {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
 }
-
-.nav__row
-
-li {
-    list-style: none;
-}
-
-
 
 /* 
 
@@ -47,17 +43,16 @@ NAVBAR
 
 */
 
-nav {
-    padding-top: 32px;
+.nav {
     display: flex;
-    height: 100px;
-    width: 100%;
-    max-width: 1000px;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .nav__row {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .nav__logo {
@@ -99,10 +94,6 @@ nav {
 }
 
 .btn__menu {
-    background-color: transparent;
-    font-size: 40px;
-    text-align: center;
-    border: none;
     display: none;
 }
 
@@ -122,9 +113,6 @@ nav {
     visibility: hidden;
 }
 
-.btn__menu {
-    display: block;
-}
 
 .menu--open .menu__backdrop {
     visibility: visible;
@@ -174,5 +162,9 @@ button:active {
 @media (max-width: 1025px) {
     .nav__links {
         display: none;
+    }
+
+    .btn__menu {
+        display: block;
     }
 }
