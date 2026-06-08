@@ -304,18 +304,22 @@ FEATURES
 .services {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .service {
-  width: calc(100% / 3);
+  width: calc(100%/3);
   padding: 24px;
   display: flex;
 }
 
+.service__row {
+  display: flex;
+  align-items: flex-start;
+}
+
 .service__img--wrapper {
-  width: 64px;
-  height: 64px;
-  flex-shrink: 0;
+  display: flex;
 }
 
 .service__img {
