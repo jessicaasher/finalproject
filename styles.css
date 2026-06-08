@@ -15,10 +15,6 @@ a {
     text-decoration: none;
 }
 
-section {
-    padding: 0 32px;
-}
-
 h2 {
     font-weight: 900;
 }
@@ -176,9 +172,23 @@ button:active {
 
 /* 
 
-LANDING
+HEADER / ABOUT US / LANDING
 
 */
+
+section {
+    padding: 0 32px;
+}
+
+.container {
+    padding: 96px 0;
+}
+
+header .row {
+    display: flex;
+    flex-direction: column;
+}
+
 
 
 
@@ -194,8 +204,17 @@ MEDIA QUERIES for Smaller Screens
     .nav__links {
         display: none;
     }
-
     .btn__menu {
         display: block;
+    }
+    header .row {
+    flex-direction: column;
+    align-items: center;
+    }
+}
+
+@media (max-width: 640px) {
+    .container {
+        padding: 80px 0;
     }
 }
