@@ -433,9 +433,19 @@ QUALITY WORK
     fill: rgb(100, 21, 255);
     --tw-text-opacity: 1;
     color: rgba(100, 21, 255, var(--tw-text-opacity));
-    z-index: 0;
+    z-index: 1;
     display: block;
 }
+
+/* .quality__img--wrapper {
+  position: relative;
+  z-index: 2;
+}
+
+.quality__grid {
+  position: absolute;
+  z-index: 1;
+} */
 
 /* 
 
@@ -502,6 +512,15 @@ STEPS
     font-weight: 500;
     line-height: 2;
 }
+
+/* #steps {
+  position: relative;
+}
+
+.steps__grid {
+  position: absolute;
+  z-index: 1;
+} */
 
 /* 
 
