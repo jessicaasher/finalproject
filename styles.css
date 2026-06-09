@@ -73,6 +73,10 @@ img {
     cursor: pointer;
 }
 
+.container {
+  padding: 96px 0;
+}
+
 /* 
 
 NAVBAR 
@@ -385,10 +389,6 @@ FEATURES
 QUALITY WORK 
 
 */
-
-.container {
-  padding: 96px 0;
-}
 
 #quality .row {
   display: flex;
