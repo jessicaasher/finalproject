@@ -491,6 +491,14 @@ STEPS
   line-height: 1;
 }
 
+.step__para {
+    font-size: 14px;
+    color: #718096;
+    margin-top: 12px;
+    font-weight: 500;
+    line-height: 2;
+}
+
 /* 
 
 VALUES 
