@@ -484,6 +484,13 @@ STEPS
     max-width: 320px;
 }
 
+.step__title {
+  font-weight: 600;
+  font-size: 20px;
+  color: #243e63;
+  line-height: 1;
+}
+
 /* 
 
 VALUES 
