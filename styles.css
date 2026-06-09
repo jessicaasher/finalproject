@@ -350,18 +350,15 @@ QUALITY WORK
 
 */
 
-#quality {
-
-}
-
 .container {
-
+  padding: 96px 0;
 }
 
-.row {
-
+#quality .row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-
 
 /* 
 
