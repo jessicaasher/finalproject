@@ -396,6 +396,21 @@ QUALITY WORK
     display: flex;
 }
 
+#quality .section__title {
+  line-height: 1.25;
+}
+
+
+/* 
+
+VALUES 
+
+*/
+
+
+#values .section__title {
+  line-height: 1.25;
+}
 /* 
 
 MEDIA QUERIES for Smaller Screens
