@@ -464,6 +464,10 @@ STEPS
     padding-left: 64px;
 }
 
+.steps__img {
+  z-index: 2;
+}
+
 .step {
     display: flex;
     align-items: flex-start;
