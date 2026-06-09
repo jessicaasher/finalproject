@@ -464,6 +464,13 @@ STEPS
     padding-left: 64px;
 }
 
+.step {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 32px;
+}
+
+
 /* 
 
 VALUES 
