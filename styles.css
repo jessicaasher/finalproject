@@ -449,6 +449,11 @@ STEPS
     align-items: center;
 }
 
+.steps__img--wrapper {
+    display: flex;
+    position: relative;
+}
+
 /* 
 
 VALUES 
