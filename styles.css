@@ -480,8 +480,7 @@ STEPS
   z-index: -10;
   color: rgb(100, 21, 255);
   fill: currentColor;
-}
-#line-of-balls */
+} */
 
 .step {
     display: flex;
