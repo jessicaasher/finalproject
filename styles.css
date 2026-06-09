@@ -423,6 +423,10 @@ QUALITY WORK
     margin-top: 32px;
 }
 
+.quality__img {
+    z-index: 1;
+}
+
 .quality__grid {
     transform: translateX(50%) translateY(50%) scaleX(1) scaleY(1);
     width: 80px;
@@ -433,7 +437,7 @@ QUALITY WORK
     fill: rgb(100, 21, 255);
     --tw-text-opacity: 1;
     color: rgba(100, 21, 255, var(--tw-text-opacity));
-    z-index: 1;
+    z-index: 0;
     display: block;
 }
 
