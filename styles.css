@@ -454,6 +454,11 @@ STEPS
     position: relative;
 }
 
+.steps__description {
+    padding: 32px 0;
+    padding-left: 64px;
+}
+
 /* 
 
 VALUES 
