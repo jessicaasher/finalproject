@@ -477,6 +477,12 @@ STEPS
     line-height: 1;
 }
 
+.step__description {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    max-width: 320px;
+}
 
 /* 
 
