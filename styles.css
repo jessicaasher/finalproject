@@ -673,18 +673,13 @@ PRICING
     border-bottom-width: 2px;
     padding: 2rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
+677
+.plan__bottom {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
 686
 .plan__name, .plan__price, .plan__duration {
   font-weight: bold;
