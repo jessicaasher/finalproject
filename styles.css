@@ -548,6 +548,10 @@ VALUES
     margin-top: 32px;
 }
 
+.value:nth-child(2) .value__img--wrapper {
+    background-color: #feb2b2;
+}
+
 .value__title {
     display: flex;
     align-items: center;
