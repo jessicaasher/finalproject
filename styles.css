@@ -911,6 +911,12 @@ TESTIMONIALS
     line-height: 1.5;
 }
 
+893
+.testimonial__buttons {
+    display: flex;
+    align-items: center;
+}
+
 /* 
 
 MEDIA QUERIES for Smaller Screens
