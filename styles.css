@@ -699,6 +699,13 @@ PRICING
   font-size: 48px;
   margin: 4px 0;
 }
+
+697
+.plan__duration {
+    font-size: 16px;
+    letter-spacing: 0.1em;
+}
+
 701
 .plan__feature {
     margin-top: 20px;
@@ -730,12 +737,6 @@ PRICING
     font-size: 0.875rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-}
-
-697
-.plan__duration {
-    font-size: 16px;
-    letter-spacing: 0.1em;
 }
 
 736
