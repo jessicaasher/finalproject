@@ -951,6 +951,16 @@ START
     align-items: center;
 }
 
+.start__row {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1024px;
+    padding: 0 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 999
 #start .row {
     position: relative;
