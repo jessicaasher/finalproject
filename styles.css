@@ -819,6 +819,11 @@ TESTIMONIALS
   justify-content: space-between;
 }
 
+.testimonials__img, 
+.testimonials__description {
+    width: 50%;
+}
+
 
 /* 
 
