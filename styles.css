@@ -626,6 +626,15 @@ PRICING
     text-align: center;
 }
 
+
+.plans {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
 /* 
 
 MEDIA QUERIES for Smaller Screens
