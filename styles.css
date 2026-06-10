@@ -748,6 +748,11 @@ PRICING
 .plan:nth-child(2) {
     background: linear-gradient(135deg, rgb(76, 81, 191) 0%, rgb(102, 126, 234) 100%);
 }
+751
+.plan:nth-child(2) .plan__button {
+    color: #6415ff;
+    background-color: #f7fafc;
+}
 
 759
 .plan:nth-child(3) .plan__stripe, .plan:nth-child(3) .plan__button {
