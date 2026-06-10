@@ -962,6 +962,14 @@ START
     align-items: center;
 }
 
+.start__title {
+    color: #f7fafc;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.5;
+    z-index: 2;
+}
+
 999
 #start .row {
     position: relative;
