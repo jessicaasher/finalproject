@@ -935,6 +935,17 @@ TESTIMONIALS
     transition: all 300ms ease;
 }
 
+922
+.divider {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    border-right-width: 1px;
+    width: 0.5px;
+    background-color: #edf2f7;
+    height: 20px;
+}
+
+
 /* 
 
 MEDIA QUERIES for Smaller Screens
