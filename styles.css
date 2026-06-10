@@ -805,6 +805,17 @@ PRICING
 
 /* 
 
+TESTIMONIALS 
+
+*/
+
+#testimonials .container {
+  padding: 6rem 0;
+}
+
+
+/* 
+
 MEDIA QUERIES for Smaller Screens
 
 */
