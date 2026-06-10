@@ -823,6 +823,12 @@ TESTIMONIALS
 .testimonials__description {
     width: 50%;
 }
+831
+.testimonials__description {
+    display: flex;
+    flex-direction: column;
+    padding-left: 64px;
+}
 
 
 /* 
