@@ -830,6 +830,13 @@ TESTIMONIALS
     padding-left: 64px;
 }
 
+836
+
+#testimonials .section__title {
+  margin-bottom: 24px;
+  line-height: 1.25;
+}
+
 
 /* 
 
