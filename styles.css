@@ -552,6 +552,15 @@ VALUES
     background-color: #feb2b2;
 }
 
+.value__img--wrapper {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+}
+
 .value__title {
     display: flex;
     align-items: center;
