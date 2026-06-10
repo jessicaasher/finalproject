@@ -962,6 +962,12 @@ START
     align-items: center;
 }
 
+959
+.start__buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
 963
 .start__title {
     color: #f7fafc;
