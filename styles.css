@@ -934,6 +934,18 @@ TESTIMONIALS
     height: 20px;
 }
 
+/* 
+
+START 
+
+*/
+
+999
+#start .row {
+    position: relative;
+    overflow: hidden;
+}
+
 
 /* 
 
