@@ -683,7 +683,9 @@ PRICING
 
 
 
-.plan__name, .plan__price, .plan__duration {
+.plan__name, 
+.plan__price, 
+.plan__duration {
   font-weight: bold;
   line-height: 1.625;
 }
