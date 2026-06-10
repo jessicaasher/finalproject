@@ -809,9 +809,14 @@ TESTIMONIALS
 
 */
 
-814
 #testimonials .container {
   padding: 6rem 0;
+}
+
+#testimonials .row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 
