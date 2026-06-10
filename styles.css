@@ -841,12 +841,21 @@ TESTIMONIALS
   margin-top: 40px;
 }
 
-843
+844
 .testimonial__rating {
-    color: rgba(246, 173, 85);
-    margin-right: 2px;
-    margin-top: 4px;
+  color: rgba(246, 173, 85);
+  margin-right: 2px;
+  margin-top: 4px;
 }
+/* 850 Need help with stars */
+.fa-star {
+    color: rgb(246 173 85);
+    display: inline-block;
+    height: 1.25rem;
+    width: 1.25rem;
+}
+
+
 
 /* 
 
