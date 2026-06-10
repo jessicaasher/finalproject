@@ -962,6 +962,11 @@ START
     align-items: center;
 }
 
+.start__title, 
+.start__buttons {
+    width: 50%;
+}
+
 959
 .start__buttons {
     display: flex;
