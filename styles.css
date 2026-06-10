@@ -553,6 +553,15 @@ VALUES
     background-color: #9ae6b4;
 }
 
+.value__img--wrapper {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+}
+
 
 
 /* 
