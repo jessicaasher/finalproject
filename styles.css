@@ -839,11 +839,11 @@ TESTIMONIALS
   margin-top: 40px;
 }
 
-
-.testimonial__rating {
-  color: rgba(246, 173, 85);
-  margin-right: 2px;
-  margin-top: 4px;
+.fa-solid .fa-star i {
+    color: rgb(246 173 85);
+    display: inline-block;
+    height: 1.25rem;
+    width: 1.25rem;
 }
 
 .testimonial__title {
@@ -853,12 +853,9 @@ TESTIMONIALS
     font-size: 1.25rem;
     font-weight: 700;
 }
-/* 850 Need help with stars */
-.fa-star {
-    color: rgb(246 173 85);
-    display: inline-block;
-    height: 1.25rem;
-    width: 1.25rem;
+
+#testimonials .testimonial .testimonial__rating .svg-inline--fa .fa-star i {
+  color: #fabf2a;
 }
 
 .testimonial__name {
