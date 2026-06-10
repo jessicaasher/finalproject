@@ -617,6 +617,17 @@ VALUES
 
 /* 
 
+PRICING 
+
+*/
+
+#pricing .section__para {
+    max-width: 576px;
+    text-align: center;
+}
+
+/* 
+
 MEDIA QUERIES for Smaller Screens
 
 */
