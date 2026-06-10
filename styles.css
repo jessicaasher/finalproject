@@ -654,7 +654,7 @@ PRICING
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
 }
-
+657
 .plan__top {
   display: flex;
   flex-direction: column;
@@ -676,14 +676,16 @@ PRICING
 
 
 
-
+686
 .plan__name, .plan__price, .plan__duration {
   font-weight: bold;
   line-height: 1.625;
 }
+690
 .plan__name {
   font-size: 20px;
 }
+693
 .plan__price {
   font-size: 48px;
   margin: 4px 0;
@@ -691,8 +693,14 @@ PRICING
 
 
 
+697
+.plan__duration {
+    font-size: 16px;
+    letter-spacing: 0.1em;
+}
 
 
+772
 .plan:nth-child(odd) .plan__duration {
     color: #a0aec0;
 }
@@ -760,7 +768,7 @@ PRICING
 
 
 
-
+769
 .plan:nth-child(odd) .plan__name, .plan:nth-child(odd) .plan__price, 
 .plan:nth-child(odd) .plan__target {
     color: #1a202c;
