@@ -745,6 +745,10 @@ PRICING
     background: linear-gradient(115deg, rgb(56, 178, 172) 0%, rgb(129, 230, 217) 100%);
 }
 
+.plan:nth-child(2) {
+    background: linear-gradient(135deg, rgb(76, 81, 191) 0%, rgb(102, 126, 234) 100%);
+}
+
 769
 .plan:nth-child(odd) .plan__name, .plan:nth-child(odd) .plan__price, 
 .plan:nth-child(odd) .plan__target {
