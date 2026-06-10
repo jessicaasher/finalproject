@@ -940,6 +940,17 @@ START
 
 */
 
+937
+.start__container {
+    padding: 96px 0;
+    width: 100%;
+    background-color: rgb(100, 21, 255);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 999
 #start .row {
     position: relative;
