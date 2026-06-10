@@ -691,6 +691,17 @@ PRICING
     font-size: 20px;
 }
 
+
+
+
+
+
+
+.plan:nth-child(odd) .plan__name, .plan:nth-child(odd) .plan__price, 
+.plan:nth-child(odd) .plan__target {
+    color: #1a202c;
+}
+
 /* 
 
 MEDIA QUERIES for Smaller Screens
