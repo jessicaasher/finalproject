@@ -548,6 +548,11 @@ VALUES
     margin-top: 48px;
 }
 
+.values__description, 
+.values__img {
+    width: 50%;
+}
+
 .value {
   margin-top: 2rem;
   margin-right: 2rem;
