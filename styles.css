@@ -625,6 +625,12 @@ VALUES
 PRICING 
 
 */
+620
+#pricing .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 625
 #pricing .section__para {
