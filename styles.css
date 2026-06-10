@@ -73,6 +73,11 @@ img {
     cursor: pointer;
 }
 
+button {
+    cursor: pointer;
+    border: none;
+}
+
 .container {
   padding: 96px 0;
 }
