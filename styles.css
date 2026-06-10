@@ -683,9 +683,7 @@ PRICING
 
 
 
-.plan__name, 
-.plan__price, 
-.plan__duration {
+.plan__name, .plan__price, .plan__duration {
   font-weight: bold;
   line-height: 1.625;
 }
@@ -696,6 +694,70 @@ PRICING
   font-size: 48px;
   margin: 4px 0;
 }
+
+
+
+
+
+.plan:nth-child(odd) .plan__duration {
+    color: #a0aec0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
