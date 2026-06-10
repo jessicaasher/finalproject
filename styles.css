@@ -567,6 +567,12 @@ VALUES
   height: 20px;
 }
 
+.value__name {
+    margin-left: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #243e63;
+}
 
 
 /* 
