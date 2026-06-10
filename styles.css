@@ -540,6 +540,8 @@ VALUES
 
 #values .section__title {
   line-height: 1.25;
+  margin-top: 16px;
+  margin-bottom: 32px;
 }
 
 
