@@ -495,8 +495,6 @@ STEPS
     line-height: 1;
 }
 
-/* do i need to display flex and flex direction column the number? */
-
 .step__description {
     display: flex;
     flex-direction: column;
