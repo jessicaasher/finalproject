@@ -544,6 +544,10 @@ VALUES
   margin-bottom: 32px;
 }
 
+#values .btn {
+    margin-top: 48px;
+}
+
 .value:nth-of-type(2) {
     margin-top: 32px;
 }
