@@ -872,7 +872,11 @@ TESTIMONIALS
     font-size: 16px;
     color: rgb(74 85 104);
 }
-
+872
+.testimonial__bottom {
+    display: flex;
+    justify-content: space-between;
+}
 /* 
 
 MEDIA QUERIES for Smaller Screens
