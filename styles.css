@@ -917,6 +917,12 @@ TESTIMONIALS
     align-items: center;
 }
 
+897
+.testimonial__button svg {
+    width: 16px;
+    height: 16px;
+}
+
 901
 .testimonial__button {
     display: flex;
