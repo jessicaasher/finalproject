@@ -877,6 +877,14 @@ TESTIMONIALS
     display: flex;
     justify-content: space-between;
 }
+
+876
+.testimonial__profile {
+    display: flex;
+    align-items: center;
+}
+
+
 /* 
 
 MEDIA QUERIES for Smaller Screens
