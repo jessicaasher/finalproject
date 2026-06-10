@@ -884,12 +884,18 @@ TESTIMONIALS
     align-items: center;
 }
 
+880
+.testimonial__details {
+    margin-left: 24px;
+}
+
 883
 .testimonial__img {
     width: 80px;
     height: 80px;
     border-radius: 50%;
 }
+
 
 /* 
 
