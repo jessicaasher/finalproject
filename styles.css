@@ -1055,6 +1055,17 @@ footer {
     line-height: 1.5;
 }
 
+1051
+.footer__column--link {
+    color: #f7fafc;
+    font-size: 14px;
+    margin-top: 12px;
+    line-height: 1.5;
+    font-weight: 500;
+    position: relative;
+    cursor: pointer;
+}
+
 1074
 .footer__column--link:nth-child(2) {
     margin-top: 24px;
