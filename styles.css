@@ -1047,6 +1047,12 @@ footer {
     background: rgb(116, 44, 255);
 }
 
+1083
+.footer__bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 /* 
 
 MEDIA QUERIES for Smaller Screens
