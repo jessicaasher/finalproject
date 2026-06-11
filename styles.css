@@ -1055,6 +1055,11 @@ footer {
     line-height: 1.5;
 }
 
+1074
+.footer__column--link:nth-child(2) {
+    margin-top: 24px;
+}
+
 1077
 .footer__divider {
     width: 100%;
