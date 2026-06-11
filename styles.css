@@ -128,6 +128,16 @@ nav {
     align-items: center;
     padding-bottom: 2px;
 }
+134
+.nav__link {
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 4px;
+    letter-spacing: 0.35px;
+    border-bottom: 2px solid transparent;
+    position: relative;
+    transition: all 300ms;
+}
 
 button {
     cursor: pointer;
