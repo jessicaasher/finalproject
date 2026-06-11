@@ -7,13 +7,22 @@
     color: #243e63;
 }
 
-html {
-    scroll-behavior: smooth;
-}
+
 12
 body {
     max-width: 100vw;
     overflow-x: hidden;
+}
+
+16
+.row {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.container {
+  padding: 96px 0;
 }
 
 h1 {
@@ -43,13 +52,6 @@ p {
 
 li {
     list-style: none;
-}
-
-16
-.row {
-    width: 100%;
-    max-width: 1280px;
-    margin: 0 auto;
 }
 
 .purple {
@@ -97,6 +99,14 @@ button {
     cursor: pointer;
     border: none;
 }
+
+
+/* 
+
+NAV 
+
+*/
+
 
 93
 nav {
@@ -176,9 +186,25 @@ nav {
     transition: all 300ms ease;
 }
 
-.container {
-  padding: 96px 0;
+208
+.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 378px;
+    margin: 24px 16px;
+    padding: 32px;
+    background-color: #fff;
+    border: 1px solid rgb(229, 231, 235);
+    border-radius: 8px;
+    z-index: 4;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateX(300%);
+    transition: all 300ms ease;
 }
+
 
 265
 section {
