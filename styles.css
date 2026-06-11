@@ -102,6 +102,11 @@ nav {
     margin: 8px 0;
     padding-bottom: 4px;
 }
+110
+.nav__logo--img {
+    height: 40px;
+    width: 40px;
+}
 
 114
 .nav__row {
