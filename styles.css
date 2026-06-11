@@ -451,6 +451,12 @@ FEATURES
     height: 24px;
 }
 
+403
+.feature__text {
+    margin-top: 8px;
+    margin-left: 16px;
+}
+
 424
 .row__narrow {
     width: 100%;
