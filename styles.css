@@ -47,6 +47,7 @@ h2 {
     font-weight: 900;
 }
 
+44
 p {
     font-size: 18px;
     line-height: 1.5;
@@ -276,6 +277,11 @@ header .row {
 273
 .header__description {
     width: 40%;
+}
+
+276
+.header__description--para {
+    margin: 32px 0;
 }
 
 342
