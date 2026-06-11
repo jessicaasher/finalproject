@@ -1107,6 +1107,13 @@ footer {
     margin-left: -16px;
 }
 
+1083
+.footer__bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 1088
 .footer__logo {
     display: flex;
