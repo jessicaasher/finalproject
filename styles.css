@@ -95,6 +95,13 @@ nav {
     display: flex;
 }
 
+114
+.nav__row {
+    display: flex;
+    justify-content: space-between;
+}
+
+
 button {
     cursor: pointer;
     border: none;
