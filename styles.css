@@ -92,6 +92,12 @@ li {
     cursor: pointer;
 }
 
+86
+button {
+    cursor: pointer;
+    border: none;
+}
+
 93
 nav {
     padding-top: 32px;
@@ -168,11 +174,6 @@ nav {
     border: none;
     display: none;
     transition: all 300ms ease;
-}
-
-button {
-    cursor: pointer;
-    border: none;
 }
 
 .container {
