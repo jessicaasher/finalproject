@@ -231,6 +231,14 @@ nav {
     border-bottom: 2px solid transparent;
 }
 
+.menu__link--primary {
+    color: #f7fafc;
+    padding: 12px 32px;
+    background: #6415ff;
+    border-radius: 500px;
+    border: none;
+}
+
 257
 .btn__menu--close {
     position: fixed;
