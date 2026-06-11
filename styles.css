@@ -1039,6 +1039,15 @@ footer {
     flex-wrap: wrap;
 }
 
+1039
+.footer__column {
+    margin-top: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    z-index: 2;
+}
+
 1077
 .footer__divider {
     width: 100%;
