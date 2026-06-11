@@ -347,6 +347,11 @@ header {
   position: relative;
 }
 
+354
+.header__img--wrapper {
+    width: calc(100% - 40%);
+}
+
 
 
 
