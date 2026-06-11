@@ -89,6 +89,12 @@ img {
     cursor: pointer;
 }
 
+93
+nav {
+    padding-top: 32px;
+    display: flex;
+}
+
 button {
     cursor: pointer;
     border: none;
