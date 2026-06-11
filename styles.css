@@ -95,6 +95,13 @@ nav {
     padding-top: 32px;
     display: flex;
 }
+97
+.nav__logo {
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+    padding-bottom: 4px;
+}
 
 114
 .nav__row {
