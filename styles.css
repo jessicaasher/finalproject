@@ -1096,6 +1096,11 @@ footer {
     align-items: center;
 }
 
+.footer__logo {
+    display: flex;
+    align-items: center;
+}
+
 .footer__copyright {
     color: #cbd5e0;
     font-weight: 500;
@@ -1105,19 +1110,6 @@ footer {
     display: flex;
     align-items: center;
     margin-left: -16px;
-}
-
-1083
-.footer__bottom {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-1088
-.footer__logo {
-    display: flex;
-    align-items: center;
 }
 
 1092
