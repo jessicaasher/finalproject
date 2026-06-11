@@ -1100,6 +1100,13 @@ footer {
     color: #cbd5e0;
     font-weight: 500;
 }
+
+.footer__socials {
+    display: flex;
+    align-items: center;
+    margin-left: -16px;
+}
+
 /* 
 
 MEDIA QUERIES for Smaller Screens
