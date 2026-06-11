@@ -335,6 +335,13 @@ header .row {
     letter-spacing: 0.6;
 }
 
+337
+.header__customers {
+    margin-top: 16px;
+    padding-right: 128px;
+    opacity: 0.5;
+}
+
 342
 header {
   position: relative;
