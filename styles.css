@@ -1101,6 +1101,19 @@ footer {
     align-items: center;
 }
 
+.footer__logo--img {
+    height: 32px;
+    width: 32px;
+}
+
+.footer__logo--text {
+    font-size: 20px;
+    color: #f7fafc;
+    font-weight: 900;
+    margin-left: 8px;
+    letter-spacing: 0.05em;
+}
+
 .footer__copyright {
     color: #cbd5e0;
     font-weight: 500;
@@ -1112,20 +1125,6 @@ footer {
     margin-left: -16px;
 }
 
-1092
-.footer__logo--img {
-    height: 32px;
-    width: 32px;
-}
-
-1096
-.footer__logo--text {
-    font-size: 20px;
-    color: #f7fafc;
-    font-weight: 900;
-    margin-left: 8px;
-    letter-spacing: 0.05em;
-}
 
 /* 
 
