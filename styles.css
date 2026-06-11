@@ -940,7 +940,6 @@ START
 
 */
 
-937
 .start__container {
     padding: 96px 0;
     width: 100%;
@@ -951,7 +950,6 @@ START
     align-items: center;
 }
 
-946
 .start__row {
     width: 100%;
     margin: 0 auto;
@@ -962,19 +960,16 @@ START
     align-items: center;
 }
 
-956
 .start__title, 
 .start__buttons {
     width: 50%;
 }
 
-959
 .start__buttons {
     display: flex;
     justify-content: flex-end;
 }
 
-963
 .start__title {
     color: #f7fafc;
     font-size: 30px;
@@ -983,7 +978,6 @@ START
     z-index: 2;
 }
 
-981
 .start__button:nth-child(1) {
     background: #f56565;
     box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
@@ -991,13 +985,16 @@ START
     transition: all 300ms ease;
 }
 
-999
+.start__button:nth-child(2) {
+    border: 1px solid rgb(160, 174, 192);
+    transition: all 300ms ease;
+}
+
 #start .row {
     position: relative;
     overflow: hidden;
 }
 
-1003
 .start__blob--1 {
     position: absolute;
     bottom: 0px;
@@ -1008,7 +1005,7 @@ START
     color: rgb(80 17 204);
     opacity: 0.5;
 }
-1013
+
 .start__blob--2 {
     position: absolute;
     top: 0px;
