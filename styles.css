@@ -1019,6 +1019,20 @@ START
 
 /* 
 
+FOOTER 
+
+*/
+
+footer {
+    padding: 96px 32px;
+    background-color: rgb(100, 21, 255);
+    margin-bottom: -32px;
+    position: relative;
+    overflow: hidden;
+}
+
+/* 
+
 MEDIA QUERIES for Smaller Screens
 
 */
