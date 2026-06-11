@@ -1048,6 +1048,13 @@ footer {
     z-index: 2;
 }
 
+1046
+.footer__column--title {
+    font-weight: 700;
+    color: #f7fafc;
+    line-height: 1.5;
+}
+
 1077
 .footer__divider {
     width: 100%;
