@@ -445,6 +445,12 @@ FEATURES
     border-radius: 500px;
 }
 
+399
+.feature__img {
+    width: 24px;
+    height: 24px;
+}
+
 424
 .row__narrow {
     width: 100%;
