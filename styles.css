@@ -425,6 +425,11 @@ FEATURES
     margin-top: 40px;
 }
 
+385
+.feature {
+    width: calc(100% / 3);
+}
+
 424
 .row__narrow {
     width: 100%;
