@@ -16,10 +16,6 @@ body {
     overflow-x: hidden;
 }
 
-a {
-    text-decoration: none;
-}
-
 h1 {
     font-size: 48px;
     color: #1a202c;
@@ -29,6 +25,12 @@ h1 {
 h2 {
     font-weight: 900;
 }
+29
+a {
+    display: inline;
+    text-decoration: none;
+}
+
 33
 img {
     width: 100%;
