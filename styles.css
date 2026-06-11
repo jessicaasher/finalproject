@@ -437,6 +437,14 @@ FEATURES
     padding: 32px 24px;
 }
 
+393
+.feature__img--wrapper {
+    display: flex;
+    padding: 20px;
+    border: 1px solid #e5e7eb;
+    border-radius: 500px;
+}
+
 424
 .row__narrow {
     width: 100%;
