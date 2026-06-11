@@ -221,6 +221,16 @@ nav {
     align-items: center;
 }
 
+.menu__link {
+    color: #1a202c;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin: 8px 0;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+}
+
 257
 .btn__menu--close {
     position: fixed;
