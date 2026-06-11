@@ -457,6 +457,16 @@ FEATURES
     margin-left: 16px;
 }
 
+407
+.feature__para {
+    margin-top: 16px;
+    font-size: 16px;
+    max-width: calc(634px / 3);
+    color: rgb(124, 139, 161);
+    line-height: 2;
+    font-weight: 500;
+}
+
 424
 .row__narrow {
     width: 100%;
