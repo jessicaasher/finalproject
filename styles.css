@@ -1031,6 +1031,12 @@ footer {
     overflow: hidden;
 }
 
+.footer__columns {
+    margin-top: -48px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 
 /* 
 
