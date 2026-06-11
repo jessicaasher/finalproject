@@ -122,7 +122,12 @@ nav {
     display: flex;
     justify-content: space-between;
 }
-
+126
+.nav__links {
+    display: flex;
+    align-items: center;
+    padding-bottom: 2px;
+}
 
 button {
     cursor: pointer;
