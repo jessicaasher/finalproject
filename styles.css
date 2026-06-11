@@ -418,6 +418,13 @@ FEATURES
     max-width: 576px;
 }
 
+380
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
 424
 .row__narrow {
     width: 100%;
