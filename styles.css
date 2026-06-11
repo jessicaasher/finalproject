@@ -26,6 +26,17 @@ body {
   padding: 96px 0;
 }
 
+29
+a {
+    display: inline;
+    text-decoration: none;
+}
+33
+img {
+    width: 100%;
+}
+
+36
 h1 {
     font-size: 48px;
     color: #1a202c;
@@ -34,16 +45,6 @@ h1 {
 
 h2 {
     font-weight: 900;
-}
-29
-a {
-    display: inline;
-    text-decoration: none;
-}
-
-33
-img {
-    width: 100%;
 }
 
 p {
