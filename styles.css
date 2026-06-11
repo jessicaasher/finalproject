@@ -352,7 +352,11 @@ header {
     width: calc(100% - 40%);
 }
 
-
+357
+.header__img {
+    width: 100%;
+    max-width: 768px;
+}
 
 
 /* section {
