@@ -1080,7 +1080,14 @@ footer {
 }
 
 .footer__blob--2 {
-
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 320px;
+    height: 320px;
+    transform: translateX(128px) translateY(192px);
+    z-index: 1;
+    opacity: 0.5;
 }
 
 .footer__columns {
